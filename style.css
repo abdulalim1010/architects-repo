@@ -5,4 +5,40 @@
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+  
+}
+.navbar{
+justify-content: space-between;
+ max-width: 1440px;
+  margin: 0 auto;
+}
+
+.menu-bar{
+  
+  
+}
+.display-flex{
+  display: flex;
+}
+.nav-item{
+  
+  list-style: none;
+  margin-right: 30px;
+}
+.nav-link{
+  text-decoration: none;
+  font-weight: 500;
+  columns: ;
+}
+.title{
+  background-color:rgba(255, 144, 14, 0.1) ;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.text-gray{
+color:#424242;
+}
+.light-gray{
+  color: #727272;
 }
